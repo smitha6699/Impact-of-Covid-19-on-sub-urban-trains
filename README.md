@@ -1,0 +1,2 @@
+# Impact-of-Covid-19-on-sub-urban-trains
+In this project we will derive the spread of infections resulting from movement of trains which will give us some idea about the number of infected people at every station of a particular route. Comparing the above data with the available medical facility in those affected regions, we would be able to comment on the number of trains to be run on that route.
